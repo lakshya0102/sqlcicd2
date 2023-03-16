@@ -1,0 +1,10 @@
+16-03-2023 14:38:03	This log contains information about the import schema operation into project 'sqldep' on computer 'LAPTOP-MIN7FMAP' by user 'sriva'.
+16-03-2023 14:38:03	Deserializing model
+16-03-2023 14:38:03	Resolving model
+16-03-2023 14:38:03	Visiting imported model for types
+16-03-2023 14:38:03	Scanning project for duplicate elements
+16-03-2023 14:38:03	Finished duplicate element processing
+16-03-2023 14:38:03	Processing extra files
+16-03-2023 14:38:03	Finished importing Data-tier Application file.
+16-03-2023 14:38:03	A summary of the import was saved to the following location: C:\database\sqldep\Import Schema Logs\sqldep_20230316090803.log
+16-03-2023 14:38:03	Click Finish to continue...
